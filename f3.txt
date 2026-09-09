@@ -1,1 +1,2 @@
 hello f3.txt added in master
+update the file after merging
